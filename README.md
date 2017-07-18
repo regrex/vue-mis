@@ -1,6 +1,6 @@
-# fis3-simple
+# vue-mis
 
-> A simple Vue 2.0 fis3 setup for quick prototyping.
+> A simple manage system template withi vue 2.0, iview, webpack setup for quick prototyping.
 
 > This template is Vue 2.0 compatible.
 
@@ -10,7 +10,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init regrex/fis3-simple my-project
+$ vue init regrex/vue-mis my-project
 $ cd my-project
 $ npm install
 $ npm run dev
@@ -22,7 +22,7 @@ $ npm run dev
 
 - `npm run build`: build with HTML/CSS/JS minification.
 
-For detailed explanation on how things work, consult the plugin [fis3-parser-vue-component](https://github.com/ccqgithub/fis3-parser-vue-component).
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader). Also check out the [breaking changes in vue-loader@9.0.0](https://github.com/vuejs/vue-loader/releases/tag/v9.0.0).
 
 ### Fork It And Make Your Own
 
